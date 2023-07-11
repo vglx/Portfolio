@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 24
+names: ['accident', 'ambulance', 'bicycle', 'bus', 'car', 'car-accident', 'crosswalk', 'cyclo', 'double_bend_right', 'excavator', 'fork_road', 'green_traffic_light', 'licence', 'motorcycle', 'narrow_road', 'no_entry', 'no_left_turn', 'no_right_turn', 'no_u_turn', 'parking_sign', 'person', 'red_traffic_light', 'rudimentary_vehicle', 'truck']
+
+roboflow:
+  workspace: nota-bota
+  project: traffic-object-oyifo
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nota-bota/traffic-object-oyifo/dataset/9
