@@ -1,9 +1,0 @@
-train: kati/train/images
-val: kati/val/images
-test: kati/test/images
-
-# nc: 3
-names: 
-  0： blue cone
-  1： orange cone
-  2： yellow cone

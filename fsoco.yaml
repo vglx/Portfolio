@@ -1,0 +1,10 @@
+train: fsoco/train/images
+val: fsoco/val/images
+test: fsoco/test/images
+
+# nc: 4
+names: 
+  0: blue_cone
+  1: large_orange_cone
+  2: orange_cone
+  3: yellow_cone
