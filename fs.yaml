@@ -1,0 +1,10 @@
+train: fs/train/images
+val: fs/valid/images
+test: fs/test/images
+
+# nc: 4
+names: 
+  0: blue
+  1: large_orange_cone
+  2: orange
+  3: yellow
