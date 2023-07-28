@@ -1,0 +1,14 @@
+train: cd/train/images
+val: cd/val/images
+test: cd/test/images
+
+# nc: 8
+names: 
+  0: blue
+  1: blue_cone
+  2: large_orange_cone
+  3: orange
+  4: orange_cone
+  5: unknown_cone
+  6: yellow
+  7: yellow_cone
