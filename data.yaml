@@ -1,0 +1,11 @@
+train: cdv2/train/images
+val: cdv2/val/images
+test: cdv2/test/images
+
+# nc: 5
+names: 
+  0: blue_cone
+  1: large_orange_cone
+  2: orange_cone
+  3: unknown_cone
+  4: yellow_cone
